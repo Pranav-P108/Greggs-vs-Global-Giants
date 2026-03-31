@@ -155,9 +155,9 @@ So the final verdict is:
 
 ## Files Included
 
-* `Greggs vs Global Fast-Food Giants.pbix` — Power BI dashboard
-* `Global & UK Fast-Food Performance Data.xlsx` — cleaned source workbook
-* `Images/` — screenshots of dashboard pages
+* `Greggs vs Global Fast-Food Giants.pbix` - Power BI dashboard
+* `Global & UK Fast-Food Performance Data.xlsx` - cleaned source workbook
+* `Images/` - screenshots of dashboard pages
 
 ---
 
